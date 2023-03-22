@@ -61,7 +61,7 @@
 /* ╚══════════════════════════╩═════════════════════════════════╝ */
 
 /* ⭕ Community Edition */
-/*@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/crearts/community.css"); /**/
+@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/crearts/community.css"); /**/
 
 /* ⭕ Ruby Edition */
 /*@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/crearts/ruby.css"); /**/
@@ -335,7 +335,7 @@
 /* ╚════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝ */
 
 /* ⭕ Adds Hover Animation */
-/*@import url("https://crearts-community.github.io/CreArts-Discord/modules/animations/hover.css"); /**/
+@import url("https://crearts-community.github.io/CreArts-Discord/modules/animations/hover.css"); /**/
 
 /* ⭕ Adds Chat-Input Animation */
 /*@import url("https://crearts-community.github.io/CreArts-Discord/modules/animations/chat-input.css"); /**/
